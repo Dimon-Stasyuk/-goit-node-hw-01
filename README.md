@@ -2,12 +2,13 @@
 
 node index.js --action list
 
-<a href='https://monosnap.com/file/0ZMLDxlRmFjxshu3bBStppOLjlgSXt'>Скриншот</a>
+<a href="https://ibb.co/VvSj6qv"><img src="https://i.ibb.co/y8yf2Q8/contacts-json-goit-node-hw-01-Visual-Studio-Code.jpg" alt="contacts-json-goit-node-hw-01-Visual-Studio-Code" border="0"></a>
 
 # Получаем контакт по id
 
 node index.js --action get --id 5
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/z7LwKmv/contacts-js-goit-node-hw-01-Visual-Studio-Code.jpg" alt="contacts-js-goit-node-hw-01-Visual-Studio-Code" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6RMwxmK/README-md-goit-node-hw-02-Visual-Studio-Code.jpg" alt="README-md-goit-node-hw-02-Visual-Studio-Code" border="0"></a>
 
 # Добавялем контакт
 
