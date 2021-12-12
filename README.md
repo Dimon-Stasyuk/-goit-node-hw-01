@@ -13,9 +13,11 @@ node index.js --action get --id 5
 # Добавялем контакт
 
 node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
+
 <a href="https://ibb.co/XtLtnyL"><img src="https://i.ibb.co/2dhdz8h/README-md-goit-node-hw-03-Visual-Studio-Code.jpg" alt="README-md-goit-node-hw-03-Visual-Studio-Code" border="0"></a>
 
 # Удаляем контакт
 
 node index.js --action remove --id=3
+
 <a href="https://ibb.co/XsdwW55"><img src="https://i.ibb.co/ncVWw11/README-md-goit-node-hw-04-Visual-Studio-Code.jpg" alt="README-md-goit-node-hw-04-Visual-Studio-Code" border="0"></a>
