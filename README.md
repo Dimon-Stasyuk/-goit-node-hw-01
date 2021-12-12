@@ -7,7 +7,7 @@ node index.js --action list
 # Получаем контакт по id
 
 node index.js --action get --id 5
-<a href='https://monosnap.com/file/pKiTIWFeb4qLfbaQsXIQamrXAV0S93'>Скриншот</a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/z7LwKmv/contacts-js-goit-node-hw-01-Visual-Studio-Code.jpg" alt="contacts-js-goit-node-hw-01-Visual-Studio-Code" border="0"></a>
 
 # Добавялем контакт
 
