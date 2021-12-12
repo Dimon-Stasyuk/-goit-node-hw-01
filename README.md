@@ -2,8 +2,7 @@
 
 node index.js --action list
 
-<a href='https://monosnap.com/file/0ZMLDxlRmFjxshu3bBStppOLjlgSXt'>
-<img href='https://monosnap.com/file/0ZMLDxlRmFjxshu3bBStppOLjlgSXt'>
+<a href='https://monosnap.com/file/0ZMLDxlRmFjxshu3bBStppOLjlgSXt'><img src='https://monosnap.com/file/0ZMLDxlRmFjxshu3bBStppOLjlgSXt'></a>
 
 # Получаем контакт по id
 
